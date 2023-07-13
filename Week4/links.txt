@@ -1,0 +1,4 @@
+https://cdn.cs50.net/2022/fall/psets/4/filter-less.zip
+https://cdn.cs50.net/2022/fall/psets/4/filter-more.zip
+https://cdn.cs50.net/2022/fall/psets/4/recover.zip
+https://cdn.cs50.net/2022/fall/psets/4/reverse.zip
