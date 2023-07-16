@@ -202,8 +202,6 @@ void edges(int height, int width, RGBTRIPLE image[height][width])
                     sumY.rgbtGreen += copy[v][h].rgbtGreen * gy[wv][wh];
                     sumY.rgbtRed += copy[v][h].rgbtRed * gy[wv][wh];
 
-                    // printf("GX: %i\nGy: %i\nSxBlue: %i\n SyBlue: %i\n", gx[wv][wh], gy[wv][wh], sumX.rgbtBlue, sumY.rgbtBlue);
-
                     h++;
                     counter++;
                     wh++;
