@@ -1,5 +1,0 @@
-https://cdn.cs50.net/2022/fall/psets/2/readability.zip
-https://cdn.cs50.net/2022/fall/psets/2/bulbs.zip
-https://cdn.cs50.net/2022/fall/psets/2/caesar.zip
-https://cdn.cs50.net/2022/fall/psets/2/substitution.zip
-https://cdn.cs50.net/2022/fall/psets/2/wordle.zip

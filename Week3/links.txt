@@ -1,3 +1,0 @@
-https://cdn.cs50.net/2022/fall/psets/3/plurality.zip
-https://cdn.cs50.net/2022/fall/psets/3/runoff.zip
-https://cdn.cs50.net/2022/fall/psets/3/tideman.zip
